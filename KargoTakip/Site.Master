@@ -1,0 +1,131 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="KargoTakip.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <link rel="stylesheet" type="text/css" href="~/Content/compiled.min.css">
+    <%--<link rel="stylesheet" type="text/css" href="~/Content/bootstrap.min.css">--%>
+    <link href="~/Content/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <style>
+        .bg-skin-lp {
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-attachment: fixed;
+        }
+    </style>
+</head>
+<body class="fixed-sn mdb-skin bg-skin-lp">
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <!-- Double navigation -->
+        <header>
+            <!-- Sidebar navigation -->
+            <ul id="slide-out" class="side-nav fixed custom-scrollbar sn-bg-2">
+
+                <!-- Side navigation links -->
+                <li>
+                    <ul class="collapsible collapsible-accordion">
+                        <li><a class="collapsible-header waves-effect arrow-r"><i class="fa fa-home"></i>Yönetim İşlemleri</a>
+                            <div class="collapsible-body">
+                                <ul>
+                                    <li><a href="kontrol.aspx" class="waves-effect">Personel İşlemleri</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li><a class="collapsible-header waves-effect arrow-r"><i class="fa fa-edit"></i>Kargo İşlemleri</a>
+                            <div class="collapsible-body">
+                                <ul>
+                                    <li><a href="kontrol1.aspx" class="waves-effect">Kargo İşlemleri</a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </li>
+                        <li><a class="collapsible-header waves-effect arrow-r"><i class="fa fa-users"></i>Kargom Nerede</a>
+                            <div class="collapsible-body">
+                                <ul>
+                                    <li><a href="KargomNerede.aspx" class="waves-effect">Kargo Takip Et</a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </li>
+                        <li><a class="collapsible-header waves-effect arrow-r"><i class="card-link"></i>Çıkış Yap</a>
+                            <div class="collapsible-body">
+                                <ul>
+                                    <li><a href="Cikis.aspx" class="waves-effect">Çıkış</a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <!--/ Side navigation links -->
+                <div class="sidenav-bg mask-strong"></div>
+            </ul>
+        </header>
+        <!--/ Double navigation -->
+
+        <!-- Main layout -->
+        <main>
+            <div class="container-fluid">
+                <div class="card">
+                    <div class="card-block">
+                        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <script type="text/javascript" src="http://localhost:1374/Scripts/compiled.min.js"></script>
+
+        <script>
+            $(".button-collapse").sideNav();
+
+            $(function () {
+                $('[data-toggle="tooltip"]').tooltip()
+            })
+
+            // Material Select Initialization
+            $(document).ready(function () {
+                $('.mdb-select').material_select();
+            });
+
+            var el = document.querySelector('.custom-scrollbar');
+            Ps.initialize(el);
+        </script>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,266 @@
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\csc.exe
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\vbc.exe
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\VBCSCompiler.exe
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\KargoTakip.dll.config
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\KargoTakip.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\KargoTakip.pdb
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Antlr3.Runtime.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\EntityFramework.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\EntityFramework.SqlServer.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Newtonsoft.Json.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Owin.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\System.Web.Optimization.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\System.Web.Providers.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\WebGrease.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\System.Web.Optimization.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Antlr3.Runtime.pdb
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Newtonsoft.Json.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\EntityFramework.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\EntityFramework.SqlServer.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\System.Web.Providers.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojResolveAssemblyReference.cache
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.dll
+C:\Users\ŞAHİN\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\csc.exe
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\vbc.exe
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\VBCSCompiler.exe
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\KargoTakip.dll.config
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\KargoTakip.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\KargoTakip.pdb
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Antlr3.Runtime.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\EntityFramework.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\EntityFramework.SqlServer.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Newtonsoft.Json.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Owin.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\System.Web.Optimization.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\System.Web.Providers.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\WebGrease.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\System.Web.Optimization.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Antlr3.Runtime.pdb
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Newtonsoft.Json.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\EntityFramework.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\EntityFramework.SqlServer.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\System.Web.Providers.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojResolveAssemblyReference.cache
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.dll
+C:\Users\asena hazal\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\csc.exe
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\vbc.exe
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\VBCSCompiler.exe
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\KargoTakip.dll.config
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\KargoTakip.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\KargoTakip.pdb
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Antlr3.Runtime.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\EntityFramework.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\EntityFramework.SqlServer.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Newtonsoft.Json.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Owin.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\System.Web.Optimization.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\System.Web.Providers.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\WebGrease.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\System.Web.Optimization.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Antlr3.Runtime.pdb
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Newtonsoft.Json.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\EntityFramework.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\EntityFramework.SqlServer.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\System.Web.Providers.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojResolveAssemblyReference.cache
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.dll
+C:\Users\ŞAHİN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\csc.exe
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\vbc.exe
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\VBCSCompiler.exe
+E:\projects\KargoTakip\KargoTakip\bin\roslyn\VBCSCompiler.exe.config
+E:\projects\KargoTakip\KargoTakip\bin\KargoTakip.dll.config
+E:\projects\KargoTakip\KargoTakip\bin\KargoTakip.dll
+E:\projects\KargoTakip\KargoTakip\bin\KargoTakip.pdb
+E:\projects\KargoTakip\KargoTakip\bin\Antlr3.Runtime.dll
+E:\projects\KargoTakip\KargoTakip\bin\AspNet.ScriptManager.bootstrap.dll
+E:\projects\KargoTakip\KargoTakip\bin\AspNet.ScriptManager.jQuery.dll
+E:\projects\KargoTakip\KargoTakip\bin\EntityFramework.dll
+E:\projects\KargoTakip\KargoTakip\bin\EntityFramework.SqlServer.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Core.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Cookies.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Facebook.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Google.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.OAuth.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Twitter.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.ScriptManager.WebForms.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\KargoTakip\KargoTakip\bin\Newtonsoft.Json.dll
+E:\projects\KargoTakip\KargoTakip\bin\Owin.dll
+E:\projects\KargoTakip\KargoTakip\bin\System.Web.Optimization.dll
+E:\projects\KargoTakip\KargoTakip\bin\System.Web.Providers.dll
+E:\projects\KargoTakip\KargoTakip\bin\WebGrease.dll
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\KargoTakip\KargoTakip\bin\System.Web.Optimization.xml
+E:\projects\KargoTakip\KargoTakip\bin\Antlr3.Runtime.pdb
+E:\projects\KargoTakip\KargoTakip\bin\Newtonsoft.Json.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\projects\KargoTakip\KargoTakip\bin\EntityFramework.xml
+E:\projects\KargoTakip\KargoTakip\bin\EntityFramework.SqlServer.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Core.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\projects\KargoTakip\KargoTakip\bin\System.Web.Providers.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Facebook.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Cookies.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Google.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.Twitter.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\projects\KargoTakip\KargoTakip\bin\Microsoft.Owin.Security.OAuth.xml
+E:\projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojResolveAssemblyReference.cache
+E:\projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+E:\projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.dll
+E:\projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+E:\projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CopyComplete
